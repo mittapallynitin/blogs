@@ -1,0 +1,24 @@
+{
+    "featured": [
+        "attention-transformers",
+        "deploy-flask-docker"
+    ],
+    "blogs": [
+        {
+            "id": "attention-transformers",
+            "title": "Understanding Attention in Transformers",
+            "description": "An intuitive explanation of how attention mechanisms work in transformer models.",
+            "date": "March 15, 2024",
+            "featured": true,
+            "github": "https://github.com/mittapallynitin/portfolio/blob/main/blogs/attention-transformers.md"
+        },
+        {
+            "id": "deploy-flask-docker",
+            "title": "Deploying ML Models using Flask + Docker",
+            "description": "A step-by-step guide to containerizing and deploying ML models in production.",
+            "date": "March 10, 2024",
+            "featured": true,
+            "github": "https://github.com/mittapallynitin/portfolio/blob/main/blogs/deploy-flask-docker.md"
+        }
+    ]
+}
