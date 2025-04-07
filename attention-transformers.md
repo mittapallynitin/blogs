@@ -20,7 +20,8 @@ This is exactly what attention mechanisms do in transformers. They allow the mod
 - Dynamically shift focus as needed
 - Process information selectively rather than giving equal weight to everything
 
-![Cocktail Party Effect](https://miro.medium.com/max/700/1*b87IDgfdxDKEcNBDZFijiQ.png)
+![Cocktail Party Effect](https://miro.medium.com/v2/resize:fit:450/1*mxWzxm1TfkesmryA_Hvlgw.jpeg)
+
 *Image source: Visual representation of the cocktail party effect, similar to how attention works*
 
 ## The Attention Mechanism Unpacked
