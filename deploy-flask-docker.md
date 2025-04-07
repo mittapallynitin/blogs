@@ -1,6 +1,5 @@
 # Deploying ML Models using Flask + Docker
 
-*Published on March 10, 2024*
 
 ## Introduction
 
